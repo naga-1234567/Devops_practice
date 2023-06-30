@@ -1,0 +1,40 @@
+username:nagarajumiddleware240818@gmail.com	
+password:Naga$240818
+
+DNS:ec2-3-110-47-25.ap-south-1.compute.amazonaws.com
+username:Administrator
+password:24Q-DARPY$rgLizra$3p$VjQJ6gwfFL6
+
+ec2-user@ec2-3-7-66-27.ap-south-1.compute.amazonaws.com
+
+
+15-02-2022
++++++++++++++++++++++++++
+Introduction
+What is AWS?
+What is Cloud Platform? Its Advantages
+Understanding the Course Contents.
+Target audience
+
+
+American multibillion dollar company with headquarters in Seattle, Washington, USA.
+
+Started in 1995 by Jeff Bezos as an online bookstore.
+
+but soon diversified, selling DVDs, VHSs, CDs, video and MP3 downloads/streaming, software, video games, electronics.
+
+The company also produces consumer electronics: Kindle    e-book reader 
+In 2006, Amazon officially launched the Amazon Web Services (AWS) to became a major provider of cloud computing services.
+
+Amazon Web Services (AWS) is a collection of remote computing services (web services) that together make up a cloud computing platform, offered over the Internet by Amazon.com. 
+
+Website: 	http://aws.amazon.com
+
+AWS is located in 26 geographical 'Regions‘. Each Region is wholly contained within a single country
+Search for AWS global Infrastructure Map
+
+What AWS Offer?
+Availability
+Scalability
+Pay-as-you-go 
+
